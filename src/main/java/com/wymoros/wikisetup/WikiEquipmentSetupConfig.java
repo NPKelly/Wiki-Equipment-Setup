@@ -14,6 +14,6 @@ public interface WikiEquipmentSetupConfig extends Config
 	)
 	default String greeting()
 	{
-		return "Hello";
+		return "Butts";
 	}
 }
